@@ -15,7 +15,7 @@ body{
     height: 200px;
     animation-name: changeWidth;
     animation-duration: 5s;
-    animation-delay: 5s;
+    animation-delay: 1s;
 }
 .name{
   background-color: deepskyblue;
