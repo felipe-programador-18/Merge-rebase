@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+@keyframes changeWidth {
+    0%{width: 600px; height: 600px;}
+    25%{width: 700px; height: 700px;}
+    100%{width: 800px; height: 800px;}
+    
+}
+
+
+.reac{
+    width: 400px;
+    height: 200px;
+    animation-name: changeWidth;
+    animation-duration: 5s;
+    animation-delay: 5s;
+}
+.name{
+  background-color: deepskyblue;
+}
+.anothername{
+ background-color: lightblue;
+}
+
+.thoughtname{
+background-color: darkcyan;
+}
